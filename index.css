@@ -1,0 +1,17 @@
+.navbar-brand{
+  color: white !important;
+}
+.section1{
+  height: 90vh;
+  background-color: black;
+}
+.carousel-inner{
+  height: 90vh;
+  object-fit: cover;
+}
+.carousel-item img{
+  height: 90vh;
+  object-fit: cover;
+  opacity: 0.5;
+  
+}
