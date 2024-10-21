@@ -23,16 +23,19 @@
   position: relative;
   color: black;
   /* bottom: 30px; */
-  text-align: center;
-  border: 1px solid;
+  text-align: left;
+  border: 1px;
   align-items: center;
   /* margin-left: 20%;
   margin-right: 20%;
   background-color: black; */
   /* top: 60px; */
+  padding: 10px 10px 10px 10px;
 }
 .btnnn{
   background-color: blue;
   color: white;
   border: blue;
+  padding:10px 10px 10px 10px;
+  border-radius: 12px;
 }
